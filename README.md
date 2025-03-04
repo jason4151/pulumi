@@ -1,2 +1,1 @@
-# pulumi
-Pulumi code.
+# Pulumi code
