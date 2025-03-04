@@ -1,0 +1,9 @@
+# Pulumi-specific
+Pulumi.*.yaml
+.pulumi/
+
+# General
+*.log
+*.out
+*.json
+.DS_Store
